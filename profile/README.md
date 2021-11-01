@@ -1,3 +1,3 @@
-## Hello, hello 👋
+## Hello World 👋
 
 <sub>:D</sub>
